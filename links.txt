@@ -1,0 +1,5 @@
+Variable	Value
+Registration Sheet link	https://docs.google.com/spreadsheets/d/1jvZho0IOuNjtqPmEF7Gtvi8hAcUeSaiebLWSsAArszg/edit?gid=1962900089#gid=1962900089
+Prizes for Everyone	https://docs.google.com/spreadsheets/d/1vEYs4hRffnFduVfSJvWWbb8LJm-IMzkmWQDZDYwndZY/edit?gid=1454664112#gid=1454664112
+Prizes for Bonus Tier	https://docs.google.com/spreadsheets/d/1vEYs4hRffnFduVfSJvWWbb8LJm-IMzkmWQDZDYwndZY/edit?gid=1138011582#gid=1138011582
+Emax Bonus Prizes	https://docs.google.com/spreadsheets/d/1vEYs4hRffnFduVfSJvWWbb8LJm-IMzkmWQDZDYwndZY/edit?gid=1973472759#gid=1973472759
